@@ -10,3 +10,7 @@ https://github.com/asmitaece88/Python_with_finance/blob/main/datasets/MSFT_2000_
 ## Download data for a portfolio composed of 5 stocks.
 ## Do it for British Petroleum, Ford, Exxon, Lincoln, and Apple for the period ‘2000-1-1’ until today.
 https://github.com/asmitaece88/Python_with_finance/blob/main/codes/Portfolio_security_python_fundamentals_asmita.ipynb
+
+# 3. Use case of how to apply the various types of t test - 1 sample , 2   t and paired t test 
+https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_sample_t_test_Asmita.ipynb
+
