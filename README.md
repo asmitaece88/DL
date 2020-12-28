@@ -14,3 +14,5 @@ https://github.com/asmitaece88/Python_with_finance/blob/main/codes/Portfolio_sec
 # 3. Use case of how to apply the various types of t test - 1 sample , 2   t and paired t test 
 https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_sample_t_test_Asmita.ipynb
 
+# 4. Finding skewness kurtosis skillsoft
+https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_skewness_kurtosis_asmita.ipynb
