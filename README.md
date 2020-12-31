@@ -16,3 +16,7 @@ https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_s
 
 # 4. Finding skewness kurtosis skillsoft
 https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_skewness_kurtosis_asmita.ipynb
+
+
+## 5 . Calculating risk of security for 2  companies
+https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/calculating_risk_security_Asmita.ipynb
