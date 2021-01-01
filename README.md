@@ -20,3 +20,9 @@ https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_s
 
 ## 5 . Calculating risk of security for 2  companies
 https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/calculating_risk_security_Asmita.ipynb
+
+## 6 .calculating covariance and correlation between rates of return  of 2 companies
+https://github.com/asmitaece88/Statistics_ML_finance/tree/main/codes
+
+dataset used :
+data set for calculating covariance of 2 companies - Walmart and FB
