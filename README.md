@@ -26,3 +26,5 @@ https://github.com/asmitaece88/Statistics_ML_finance/tree/main/codes
 
 dataset used :
 data set for calculating covariance of 2 companies - Walmart and FB
+https://github.com/asmitaece88/Statistics_ML_finance/blob/main/datasets/Walmart_FB_2014_2017.csv
+
