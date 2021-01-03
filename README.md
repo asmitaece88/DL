@@ -22,7 +22,7 @@ https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/skillsoft_s
 https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/calculating_risk_security_Asmita.ipynb
 
 ## 6 .calculating covariance and correlation between rates of return  of 2 companies
-https://github.com/asmitaece88/Statistics_ML_finance/tree/main/codes
+https://github.com/asmitaece88/Statistics_ML_finance/blob/main/codes/calculate_covariance_correlation__of_securities_asmita.ipynb
 
 dataset used :
 data set for calculating covariance of 2 companies - Walmart and FB
